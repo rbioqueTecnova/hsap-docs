@@ -16,6 +16,12 @@ Diagnóstico enfermería
 --- Diagnóstico
 --- Agenda
 --- Registro de cuidados
+--- Cuestionarios
+
+- Eliminar primera sección
+- Revisar configuración en la HU 
+
+
 
 Dudas:
 - El flujo definido difiere sobre el flujo actual de hsap
@@ -45,3 +51,13 @@ Dudas:
 - Diagnósticos nanda?
 - La casita habilita funcionalidades diferentes a diagnóstico? Ejemplo cuestionarios?
 - Por qué no hemos considerado HSC como un componente nuevo?
+
+
+Pendiente
+- redefinición casos de uso para primaria
+- terminar casos de uso actuales
+- definir flujo de diagnóstico
+- definir configuración de diagnóstico/valoración/cuestionarios
+- definición de relaciones entres diagnósticos/valoraciones/cuestionarios
+- definición de agenda
+- definición de hoja de seguimiento

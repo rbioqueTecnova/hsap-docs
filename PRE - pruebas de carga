@@ -1,0 +1,13 @@
+Documentación
+https://ws001.sspa.juntadeandalucia.es/confluence/display/GOBP/Pruebas+de+carga+del+sistema
+
+- Protocolo para solicitarlo
+- Entorno ?
+-- Posiblemente no nos interese reutilizar entorno de PRE actual
+-- DGT?
+-- Deploy
+-- Config
+- Documentación pruebas de carga
+- Preparar entorno develop
+- Grabación de casos de uso
+- Tests ejecución casos de uso

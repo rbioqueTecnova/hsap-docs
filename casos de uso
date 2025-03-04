@@ -1,15 +1,17 @@
 Diagnósticos de enfermería activos
+----------------------------------
 - Listado de diagnósticos activos del paciente con estado:
 -- Verde: firmado
 -- Amarillo: guardado sin firma
 -- Tooltip con nombre del prfesional y centro de salud
 -- Fecha de guardado / firma
+-- Meter código?
 
-Dudas:
-- No mostramos etiquetas ni otra información complementaria?
-- Ver ejemplo en ECU
+Pendiente:
+- Acceso a ECU y ver donde iria
 
 Diagnóstico enfermería
+----------------------------------
 - Configuración:
 -- Casita con:
 --- Valoración inicial
@@ -18,46 +20,27 @@ Diagnóstico enfermería
 --- Registro de cuidados
 --- Cuestionarios
 
-- Eliminar primera sección
-- Revisar configuración en la HU 
+- Eliminar la primera sección de PC, estadio, etc y permitir unicamente creación de plan individualizado
 
-
-
-Dudas:
-- El flujo definido difiere sobre el flujo actual de hsap
-- Falta configuración concreta de la funcionalidad
-- Permitir únicamente PCI? Revisar el flujo para facilitar PCI?
-- Difiere el acceso desde ECU?
+Pendiente:
+- Requisitos a bajo nivel
 
 Agenda de Actividades
+----------------------------------
 - Listado de actividades / intervenciones planificadas según último PCI firmado
 -- Ordenación ascendente por fecha de ejecución
 -- Agrupación por NIC / perfil
 - Permitir marcar actividades realizadas con fecha y responsable
 - Añadir nuevas actividades 
 
-Dudas:
-- Se permiten añadir nuevas intervenciones?
-- Las nuevas intervenciones/actividades se vuelcan al PCI firmado?
-- Difiere acceso desde ECU?
+Pendiente:
+- Requisitos a bajo nivel
 
 Hoja de seguimiento de Consulta Enfermería HSC
+----------------------------------
 - Integración con GI para informe
-- Otras integraciones
+- Integración con constantes
 - Componente para cuestionarios y diagnósticos sugeridos
 
-Dudas:
-- Integración con constantes? 
-- Diagnósticos nanda?
-- La casita habilita funcionalidades diferentes a diagnóstico? Ejemplo cuestionarios?
-- Por qué no hemos considerado HSC como un componente nuevo?
-
-
-Pendiente
-- redefinición casos de uso para primaria
-- terminar casos de uso actuales
-- definir flujo de diagnóstico
-- definir configuración de diagnóstico/valoración/cuestionarios
-- definición de relaciones entres diagnósticos/valoraciones/cuestionarios
-- definición de agenda
-- definición de hoja de seguimiento
+Pendiente:
+- Requisitos a bajo nivel

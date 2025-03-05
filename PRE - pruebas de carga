@@ -1,6 +1,24 @@
 Documentación
 https://ws001.sspa.juntadeandalucia.es/confluence/display/GOBP/Pruebas+de+carga+del+sistema
 
+- Definición de casos de uso
+https://ws001.sspa.juntadeandalucia.es/confluence/pages/viewpage.action?pageId=236911438
+
+- Volumetría (pendiente de HSAP)
+https://ws001.sspa.juntadeandalucia.es/confluence/pages/viewpage.action?pageId=236883967
+
+- Entorno (pendiente)
+Elaboración de DGT
+
+- Creación de plan de pruebas de carga (PPS)
+
+- Grabaciones JMETER
+
+- Scripts configuración de entorno
+
+
+
+
 - Protocolo para solicitarlo
 - Entorno ?
 -- Posiblemente no nos interese reutilizar entorno de PRE actual

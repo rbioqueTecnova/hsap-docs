@@ -16,3 +16,5 @@ https://ws001.sspa.juntadeandalucia.es/confluence/pages/viewpage.action?pageId=2
 
 
 - Entorno: Pre DAH
+- Planificación: 22/04/2025 - 26/05/2025
+- Versión: 3.7.5

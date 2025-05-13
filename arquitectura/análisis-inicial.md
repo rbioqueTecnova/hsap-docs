@@ -32,4 +32,23 @@
 
 - Análisis implicaciones cambio de ámbito
 
+--- 8/5/2025
+
+Implicaciones de reutilizar ECCWeb
+Inconvenientes
+- Solo reutilizaremos una funcionalidad (plan de cuidados)
+- Adaptación para la centralización
+- Adaptación para el cambio de ámbito
+- Adaptador para comunicación por eventos en weblogic
+- Optimización rendimiento / refactor
+- Adaptación al sistema de diseño actual
+- Adaptación del propio plan de cuidados
+- Complejidad añadida al mantener dos ámbitos
+- ADR integración frontales legacy
+
+PPS
+- Aprovechar para testar la versión de ECC
+
+
+
 

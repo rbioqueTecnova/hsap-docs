@@ -49,6 +49,12 @@ Inconvenientes
 PPS
 - Aprovechar para testar la versión de ECC
 
+-- 14/05/2025
+Requisito RF-016 El historico lo mantenemos en plan de cuidados con borrado lógico o lo pasamos a auditoría con borrado físico en plan de cuidados?
+Requisito RF-035 Si recomendaciones necesita poder seleccionar cualquier etiqueta aunque no esté sugerida, necesita todas las etiquetas que están en plan. Duplicamos info o creamos un servicio unificado?
+
+
+
 
 
 

@@ -1,0 +1,37 @@
+
+Justificación microprofile 7 (Abril 2024)
+- Ponen foco en la observabilidad
+- Features en el manejo de la documentación e integración un openapi
+Tema interesante debido a los problemas para manejar la gran cantidad de objetor FHIR
+- JWT Auth pasa a 2.0 con mejoras de interoperabilidad y seguridad
+- Telemetry como estandar unificado
+6.1 / 7.0
+
+Justificación lit 3 (finales 2023)
+- Features en cuanto a distribución (separación de módulos)
+Permiten tree-shaking más fino, reduciendo bundle en un 20/30
+En modulos planos, ayuda a que el cliente tenga un empaquetado más eficiente
+- Ganancia en performance
+- Decoradores estandar
+- IE11 ya no es compatible
+
+
+Auditoria
+- Delegamos responsabilidad a componente transversal 
+Como se llama?
+audita
+@audit
+
+
+Historico
+cqrs
+- Aligeramos volumetría
+- Reducimos complejidad 
+- Delegamos responsabilidad de histórico al componente historico
+
+Conclusiones
+- Decimos mantenernos en una versión anterior a la actual como estrategia del SAS 6.1 Y 2.7.4
+con el proposito de no comernos los bugs de las últimas versiones. Damos pistoletazo para que Arquitectura
+trabaje en upgrade, avanzando inicialmente la bibloteca de componentes a 3.0
+- Delegamos responsibilidad de auditar al componente audita transversal del SAS
+- Para mantener historico se decide hacer una segregación y hacer CQRS separando operaciones de lectura/escritura
